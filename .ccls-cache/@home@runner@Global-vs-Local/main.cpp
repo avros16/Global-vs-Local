@@ -6,6 +6,9 @@ using namespace std;
 int x = 1000;
 
 // function prototypes for functions defined following main function 
+void printX();
+void printX2();
+
 
 int main() {
 
